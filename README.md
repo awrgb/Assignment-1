@@ -16,7 +16,7 @@ Aoa,
      
    # Scenario 1:  Buying Groceries:
     
-    This method simulates the process of buying groceries, specifically fruits or vegetables. It generates random prices for each item, calculates the total bill, and displays the items with their prices. The choice           variable determines whether the customer is buying fruits or vegetables.
+    This method simulates the process of buying groceries, specifically fruits or vegetables. It generates random prices for each item, calculates the total bill, and displays the items with their prices. The choice   variable determines whether the customer is buying fruits or vegetables.
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
    # Scenario 2: Checking Discounts:
@@ -29,7 +29,7 @@ ________________________________________________________________________________
    # Scenario 3:  Checkout Process:
 
     This method simulates the checkout process. It displays available payment options, prompts the user to choose a payment method (in this case, it's set to "Credit Card" for testing), and prints a confirmation message 
-    based on the chosen payment method.
+based on the chosen payment method.
 
      
   __________________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -67,7 +67,7 @@ ________________________________________________________________________________
 
    # Scenario 5: Temperature Conversion:
 
-    The convertCelsiusToFahrenheit function converts a temperature from Celsius to Fahrenheit using the conversion formula. The function is called with the argument 20, and the converted temperature is printed to the         console.
+    The convertCelsiusToFahrenheit function converts a temperature from Celsius to Fahrenheit using the conversion formula. The function is called with the argument 20, and the converted temperature is printed to the   console.
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
